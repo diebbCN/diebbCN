@@ -1,6 +1,6 @@
 <img src="https://github.com/BGBiao/BGBiao/blob/master/go.gif" width="100">
 
-### Hi Boys and Girls 👋
+### Hi fella! 💮
 
 #### About me
 
