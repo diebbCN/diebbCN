@@ -6,4 +6,3 @@
 
 - 🌱 I’m currently learning Golang and Kubernetes.
 - 📫 My blog: http://diebb.cn/
-- 😄 Public WeChat: `newburyport`
